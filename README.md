@@ -1,5 +1,5 @@
 # Project-2
-Project Idea:
+#Project Idea:
 Three shares whose values are increasing and worth investing in based on the impact of COVID-19
 Looking at current initiatives of the companies
 Before/After quarantine data (stock price)
@@ -23,14 +23,14 @@ Nordstrom’s --
 Stock which is riskier/heavily impacted by covid, future is uncertain
 MFA Financial -- Real Estate
 
-Stock Data Analysis
-Project Description:
+##Stock Data Analysis
+#Project Description:
 The COVID-19 pandemic put the stock market in disarray.  Many companies were impacted to the point of bankruptcy.  Others, however, saw a significant rise in their stock price.  Our project focuses on three companies - one that’s stock was decimated, another that had significant gains, and a third that’s future is uncertain in the wake of the pandemic. We will provide visuals to show the progression of the stock price from January (before COVID was declared a pandemic) until July (current day) for the year 2020.
 Chart Types:
 Line Chart showing stock price fluctuations from quarantine order (3/10) until present.
 Candlestick Chart showing daily high/low.
 Dot (scatter?) Plot of quarterly earning.
-Roles:
+#Roles:
 API/Flask -- pull data from api (robinhood, yahoo finance, investopedia (for background of the company), or any other website with information on the company/stock).
 Github has live stock data.
 Taylor, Vasuda
